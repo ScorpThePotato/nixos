@@ -1,0 +1,3 @@
+[submodule "packages/nvchad/custom"]
+	path = packages/nvchad/custom
+	url = git@github.com:ScorpThePotato/nvchad.git
